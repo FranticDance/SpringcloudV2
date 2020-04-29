@@ -1,0 +1,5 @@
+com\lpy\springcloudv2\config\ApplicationContextConfig.class
+com\lpy\springcloudv2\entities\CommonResult.class
+com\lpy\springcloudv2\OrderApp80.class
+com\lpy\springcloudv2\controller\OrderController.class
+com\lpy\springcloudv2\entities\Payment.class

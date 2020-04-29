@@ -20,3 +20,5 @@ mybatis:
     - classpath:mapper/**/*.xml                       # mapper映射文件
   configuration:
     map-underscore-to-camel-case: true
+
+
