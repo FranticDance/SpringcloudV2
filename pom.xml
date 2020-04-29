@@ -11,6 +11,9 @@
         <module>provider-payment8001</module>
         <module>consumer-order80</module>
         <module>api-commons</module>
+        <module>alibaba-provider-payment9001</module>
+        <module>alibaba-provider-payment9002</module>
+        <module>alibaba-consumer-order90</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -48,7 +51,7 @@
             <dependency>
                 <groupId>com.alibaba.cloud</groupId>
                 <artifactId>spring-cloud-alibaba-dependencies</artifactId>
-                <version>2.1.0.RELEASE</version>
+                <version>2.2.0.RELEASE</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
