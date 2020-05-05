@@ -6,13 +6,11 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 /**
  * @author lpy
- * @version 1.0
- * @date 2020/4/29 21:46
  */
 @SpringBootApplication
 @EnableDiscoveryClient
-public class OrderApp90 {
+public class PaymentAppAlibaba9002 {
     public static void main(String[] args) {
-        SpringApplication.run(OrderApp90.class, args);
+        SpringApplication.run(PaymentAppAlibaba9002.class, args);
     }
 }
